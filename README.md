@@ -1,5 +1,5 @@
 * :blush: Hi, I’m @ThanhVi, welcome to my github.
-* 🌎 I come from Viet Nam
+* 🌎 I come from Viet Nam.
 * 📚 I’m currently learning Software Engineering at FPT University HCM.
 * 💬 How to reach me ❓ 
   * [facebook](https://www.facebook.com/merry.kute.31/)📌
